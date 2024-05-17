@@ -21,7 +21,7 @@ The dataset includes information about Rockbuster’s film inventory, customer b
 - **SQL:** Primary language used for querying the database and performing data manipulations.
 - **PostgreSQL:** The chosen RDBMS for storing and managing the data effectively.
 - **Python:** Utilized for further data manipulation, analysis, and visualization (if applicable).
-- **Visualization Tools:** (Specify tools such as Tableau, PowerBI, etc., if used for presenting the data analysis results).
+- **Visualization Tools:** Tableau. [Link!](https://public.tableau.com/app/profile/meshach.okumbor/viz/Rockbuster_17122413369360/Datasummary2?publish=yes)
 
 ## Analysis and Results
 (SQL queries and a brief description of the results and insights gained from each analysis, possibly including charts or links to visualizations.)
