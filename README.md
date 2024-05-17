@@ -18,7 +18,7 @@ The dataset includes information about Rockbuster’s film inventory, customer b
 
 ## Technologies Used
 - **PostgreSQL:** Primary language used for querying the database and performing data manipulations.The chosen RDBMS for storing and managing the data effectively.
-- **Visualization Tools:** Tableau. [Link!](https://public.tableau.com/app/profile/meshach.okumbor/viz/Rockbuster_17122413369360/Datasummary2?publish=yes)
+- **Visualization Tools:** Tableau. [Link to Charts!](https://public.tableau.com/app/profile/meshach.okumbor/viz/Rockbuster_17122413369360/Datasummary2?publish=yes)
 
 ## Analysis and Results
 (SQL queries and a brief description of the results and insights gained from each analysis, possibly including charts or links to visualizations.)
