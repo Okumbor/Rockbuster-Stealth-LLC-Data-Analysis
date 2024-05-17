@@ -14,13 +14,10 @@ The project involves loading Rockbuster's comprehensive data into a relational d
 
 ## Data Set
 The dataset includes information about Rockbuster’s film inventory, customer base, and payment transactions, among other aspects crucial for operational and strategic analysis. This data was loaded into a PostgreSQL database, facilitating complex SQL queries and analysis.
-
-## Download:- 
+ [Download Report](https://github.com/Okumbor/Rockbuster-Stealth-LLC-Data-Analysis/blob/main/Final%20Report.pdf) 
 
 ## Technologies Used
-- **SQL:** Primary language used for querying the database and performing data manipulations.
-- **PostgreSQL:** The chosen RDBMS for storing and managing the data effectively.
-- **Python:** Utilized for further data manipulation, analysis, and visualization (if applicable).
+- **PostgreSQL:** Primary language used for querying the database and performing data manipulations.The chosen RDBMS for storing and managing the data effectively.
 - **Visualization Tools:** Tableau. [Link!](https://public.tableau.com/app/profile/meshach.okumbor/viz/Rockbuster_17122413369360/Datasummary2?publish=yes)
 
 ## Analysis and Results
